@@ -15,11 +15,13 @@ This week's Challenge required a coding assesment that is to include multiple-ch
 
 The following image shows the web application's appearance and functionality:
 
-![screenshot-of-website-image]()
+![screenshot-of-website-image](./Assets/127.0.0.1_5500_index.html%20(2).png)
+![screenshot-of-website-image](./Assets/127.0.0.1_5500_index.html%20(3).png)
+![screenshot-of-website-image](./Assets/127.0.0.1_5500_index.html%20(4).png)
 
 
 ## Usage
 
 Webpage:
 
- [Github Page Address]()
+ [Github Page Address](https://github.com/delacruzjonathan/Module-4-Challenge)
